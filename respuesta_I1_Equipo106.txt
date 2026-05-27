@@ -5,3 +5,5 @@ Gamma: Rafael Guzman
 
 a-Si, alfa puede ver todos los commits y los datos que cargaron.
 b-Si, los demas pueden ver los archivos que crea alfa
+C- si lo demás intefrantes lo ven
+d- por discord 
