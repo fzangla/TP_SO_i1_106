@@ -1,0 +1,7 @@
+Apellido y nombre de los alumnos que participaron de la interacción:
+Alfa: Zangla Benitez Franco
+Beta: Abelardo Martinez
+Gamma: Rafael Guzman
+
+a-Si, alfa puede ver todos los commits y los datos que cargaron.
+b-Si, los demas pueden ver los archivos que crea alfa
